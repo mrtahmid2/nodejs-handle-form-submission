@@ -1,0 +1,11 @@
+{
+  "name": "handle-form-submission",
+  "version": "1.0",
+  "description": "Handle form submission in Node.js without dependencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "mrtahmid2"
+}
