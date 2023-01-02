@@ -14,7 +14,6 @@ const server = http.createServer((req, res) => {
 
   // If there is data available to be read from the stream (e.g., user submits form)...
   // ... then output the data to the console and send that data to the user.
-
   handle(req, res);
 });
 
